@@ -20,14 +20,8 @@ machine for development and testing purposes.</p>
 <h4>or simply download using the url below</h4>
 <code>https://github.com/benjaminagbo/Sentiment-Analysis.git</code><br>
 
-<h2>To migrate the database open terminal in project directory and type</h2>
-<code>python manage.py migrate</code>
-
-<h2>To use admin panel you need to create superuser using this command </h2>
-<code>python manage.py createsuperuser</code>
-
 <h2> To run the program in local server use the following command </h2>
-<code>python manage.py runserver</code>
+<code>strreamlit run Dashboard.py</code>
 
 <p>Then go to http://127.0.0.1:8000 in your browser</p>
 
