@@ -21,7 +21,7 @@ machine for development and testing purposes.</p>
 <code>https://github.com/benjaminagbo/Sentiment-Analysis.git</code><br>
 
 <h2> To run the program in local server use the following command </h2>
-<code>strreamlit run Dashboard.py</code>
+<code>streamlit run Dashboard.py</code>
 
 <p>Then go to http://127.0.0.1:8000 in your browser</p>
 
